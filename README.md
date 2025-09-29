@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lauren Parlett!
+# 👋 Hi, I'm Lauren!
 
 **Epidemiologist | Coding Enthusiast | Dog Lover**
 
