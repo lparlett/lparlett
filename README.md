@@ -39,7 +39,7 @@ Welcome! I'm an epidemiologist who loves to code, especially as a way to make se
 ## 🐾 Meet Roscoe
 
 Roscoe is my favorite companion and coding buddy!  
-![Roscoe the dog](roscoe.jpg)
+![Roscoe the dog](Roscoe.jpg)
 
 He keeps me company during long coding sessions and always reminds me to take breaks.
 
