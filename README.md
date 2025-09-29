@@ -13,15 +13,17 @@ Welcome! I'm an epidemiologist who loves to code, especially as a way to make se
 
 ## 🚀 Featured Projects
 
-- [Health-Records-Collection](https://github.com/lparlett/Health-Records-Collection): Tools for organizing and analyzing health records.
+- [Health-Records-Collection](https://github.com/lparlett/Health-Records-Collection): Tools for importing and displaying personal health records.
 - [Restore-CDC-WARC](https://github.com/RestoredCDC/Restore-CDC-WARC): Recovering and preserving CDC web archives.
 - [CDC_zim_mirror](https://github.com/RestoredCDC/CDC_zim_mirror): Mirror of CDC content for research and reference.
-- [vehicle-manager](https://github.com/lparlett/vehicle-manager): Personal project for vehicle info management.
+- [vehicle-manager](https://github.com/lparlett/vehicle-manager): Personal project for garbage truck maintenance services management.
 
 ## 🛠️ Skills
 
-- **SAS & R** (proficient)
-- **Python** (learning daily!)
+- Proficient: SAS, R, HTML, CSS
+- Competent: various SQL languages, VBA
+- Advanced beginner: Python, PHP
+- Beginner: C++
 - Data wrangling, visualization, and statistical analysis
 - Documentation & testing best practices
 
